@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FullstackdevelopComponent implements OnInit {
 
-  today = new Date();
+  
   constructor() { }
 
   ngOnInit() {
